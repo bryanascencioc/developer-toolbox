@@ -156,7 +156,7 @@ git log --oneline
 Output captured during the evidence review:
 
 ```text
-91f856c (HEAD -> master) Add Git basics evidence
+47c620c (HEAD -> master) Add Git basics evidence
 31f4fdb Add initial developer toolbox structure
 ```
 
