@@ -1,3 +1,3 @@
 ## Status
 
-Phase 0 active on main branch.
+Phase 0 active through pull request workflow and merge conflict practice.
