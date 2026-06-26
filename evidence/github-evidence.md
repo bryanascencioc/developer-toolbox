@@ -122,3 +122,45 @@ An upstream branch connects a local branch to a remote branch so Git knows where
 ### Main branch
 
 main is the primary branch of the repository.
+
+---
+
+## 7. Pull Request #1 Evidence
+
+Pull Request URL:
+
+```text
+https://github.com/bryanascencioc/developer-toolbox/pull/1
+```
+
+Pull Request title:
+
+Add PowerShell command notes
+
+Feature branch:
+
+feature/add-powershell-notes
+
+Base branch:
+
+main
+
+Merge status before merge:
+
+Ready to merge
+
+What changed:
+
+Updated docs/terminal/powershell-basics.md with beginner PowerShell command notes.
+
+What I practiced:
+
+I practiced creating a feature branch, committing a change, pushing the branch to GitHub, opening a pull request, reviewing the PR status, merging the PR, and returning to the main branch.
+
+Concepts:
+
+A feature branch is a separate working branch used to make changes without directly modifying main.
+
+A pull request is a review process used to propose changes before merging them into main.
+
+Merging means integrating the approved feature branch changes into the main branch.
